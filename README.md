@@ -1,3 +1,13 @@
+# RoadWatch — Real-time AI agent monitoring dashboard with pixel-art office and 18 behaviors.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 # AgentMonitor for OpenClaw
 
 Real-time AI agent visualization and control dashboard for [OpenClaw](https://github.com/openclaw/openclaw).
